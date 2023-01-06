@@ -1,6 +1,6 @@
 # BachatBazaar
 
-BachatBazaar is an e-commerce site where user can place orders and can purchase items. User can select products, add them to cart and checkout the selected items. This project is made using React-Native, Nodejs, MySQL and Express.
+BachatBazaar is an e-commerce site where user can place orders and purchase items. User can select products, add them to cart and checkout the selected items. This project is made using React-Native, Nodejs, MySQL and Express.
 
 
 
